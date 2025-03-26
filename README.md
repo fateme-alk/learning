@@ -15,7 +15,7 @@ The repository is organized by course/topic, with subdirectories for different m
 📦 learning
 ├── 📂 IBM_data_analysis
 │   ├── 📂 module1
-│       ├── 📜 covered_concepts.py
-│       └── 📜 README.md
+│   │    ├── 💻 covered_concepts.py
+│   ├── 📜 README.md
 └── 📜 README.md
 ```
