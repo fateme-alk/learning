@@ -5,7 +5,7 @@ This repository serves as a personal knowledge base, containing code implementat
 <ul>
   <li>Languages: Python</li>
   <li>Concepts: Pre-processing, ML, DL</li>
-  <li>Frameworks/Libraries: NumPy, Pandas</li>
+  <li>Frameworks/Libraries: NumPy, Pandas, Matplotlib, Seaborn, Sklearn</li>
   <li>Tools: Git</li>
 </ul>
 
